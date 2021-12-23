@@ -108,3 +108,12 @@ main {
   font-weight: 700;
   text-shadow: 3px 3px rgba(50, 50, 70, 0.5);
 }
+.footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #706677;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
